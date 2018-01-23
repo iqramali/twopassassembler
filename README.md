@@ -93,6 +93,7 @@ PASS 2
 Final instructions generated on this below file.
 
 Output.txt
+
 H^COPY^001000^12
 T^001000^12^�
 E^001000
