@@ -91,6 +91,7 @@ int main() {
 		else
 			break;
 	}
+	
 	fprintf(fp3,"\nE^00%x",s);
 	fcloseall();
 
