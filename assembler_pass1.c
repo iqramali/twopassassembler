@@ -64,7 +64,6 @@ int main() {
 				lc=lc+3;
 		}
 	}
-
 	fprintf(fp3,"%x\t%s\t%s\t%s\n",lc,lab,op,val);
 	l=lc-s;
 	fprintf(fp3,"PROGRAMLENGTH %x",l);
