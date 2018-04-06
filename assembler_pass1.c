@@ -42,7 +42,6 @@ int main() {
 					}
 					f=0;
 				}
-
 			if(f==0) {
 				fprintf(fp2,"%s\t%x\n",lab,lc);
 				strcpy(b[n++],lab);
